@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Berhan-hub
+- 👀 I’m interested in anime and games and other unnecessary stuff
+- 🌱 I’m currently learning how to extract data from websites with/without api.
+- 💞️ I’m looking to collaborate on making an indie game with my friends
+- 📫 You can reach me by berhansaydam01@gmail.com email address.
